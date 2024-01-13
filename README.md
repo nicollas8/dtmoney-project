@@ -1,6 +1,6 @@
 # DT MONEY
 
-dt money é uma ferramente para cadastro de transações, podem inserir a entrada e saída de dinheiro e seus respectivos gastos
+dt money é uma ferramente para cadastro de transações, podendo inserir a entrada e saída de dinheiro e seus respectivos gastos. Este projeto foi executado seguindo o curso Ignite React da Rocketseat
 
 ## 📦 Tecnologias usadas:
 
