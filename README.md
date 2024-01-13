@@ -1,4 +1,4 @@
-# dt money
+# DT MONEY
 
 dt money é uma ferramente para cadastro de transações, podem inserir a entrada e saída de dinheiro e seus respectivos gastos
 
